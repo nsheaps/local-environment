@@ -10,6 +10,7 @@ You may be scared, but deleting the symlinks in this folder will not delete the 
 ln -s '../../.zshrc' .
 ln -s '../../.zprofile' .
 ln -s '../../.claude.json' .
+ln -s '../../.claude' .
 ln -s '../../.commitronrc' .
 ln -s '../../.gitconfig' .
 ln -s '../../.profile' .
